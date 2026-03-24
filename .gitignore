@@ -44,9 +44,6 @@ DIV2K_valid_HR/
 
 # Results
 results/
-*.png
-*.jpg
-*.jpeg
 
 # Logs
 *.log
@@ -59,4 +56,5 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
+
 
